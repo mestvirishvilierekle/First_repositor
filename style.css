@@ -1,0 +1,21 @@
+section.first {
+  border: 19px solid black;
+  height: 100vh;
+  background-image: url("./img/COSY BEANN.jfif");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+div.second {
+    background-color: dimgray;
+  border: 4px solid black;
+  height: 40vh;
+  font-size: 40px;
+  text-align: center;
+}
+button{
+    color: brown;
+    background-color: burlywood;
+}
+div.button{
+    text-align: center;
+}
